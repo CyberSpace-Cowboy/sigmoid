@@ -21,6 +21,5 @@ It's a mathematical function that maps map the values on the X exis into a small
 
 - Sigmoid functions are an important part of a logistic regression model. Logistic regression is a modification of linear regression for two-class classification, and converts one or more real-valued inputs into a probability, such as the probability that a customer will purchase a product. The final stage of a logistic regression model is often set to the logistic function, which allows the model to output a probability.
 
-### Formula
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 
