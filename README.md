@@ -1,6 +1,8 @@
 # Sigmoid Function
 A sigmoid app that works inside a terminal/command prompt, I wrote it in less than 15 minutes using Python to play around with sigmoid values.
 
+![alt text](img/giph_sigmoid.gif)
+
 ## Run It:
 
 To run this stupid little program you should open the terminal at the same directory as your sigmoid.py program, and then type:
